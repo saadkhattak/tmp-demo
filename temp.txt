@@ -1,0 +1,4 @@
+Sentinel is an embedded policy-as-code framework integrated with the HashiCorp Enterprise products. 
+Can be used for various use-cases like:
+●	Verify if EC2 instance has tags.
+●	Verify if the S3 bucket has encryption enabled.
